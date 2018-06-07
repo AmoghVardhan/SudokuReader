@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1491010872 source:c:\users\user\desktop\opencv projects\sudoku_grabber\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+
+1491010872 
+
+1491010872 source:c:\users\user\desktop\sudoku_grabber\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+
+1491010872 source:/media/ksamogh/8C7E748A7E746EB8/Users/user/Desktop/Sudoku_Grabber/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+
