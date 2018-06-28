@@ -2,6 +2,7 @@
 Detects the outer boundaries of a sudoku in a given image without using in-built library functions
 
 ## Steps:-
+<b>
 <ul>
   <li>Gaussian Blur</li>
   <li>Adaptive Threshold</li>
